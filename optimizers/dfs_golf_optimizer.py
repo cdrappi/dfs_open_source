@@ -108,7 +108,7 @@ class DKGolfOptimizer:
 
         for player in self.players:
             pass
-        
+
         return
 
     def _get_max_usage_per_combo(self, player_combo):
